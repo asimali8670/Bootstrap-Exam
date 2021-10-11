@@ -1,0 +1,29 @@
+
+.jumbotron {
+  background-color: #f4511e;
+  color: #075e4f05;
+}
+.form {
+    display: inline-block;
+} 
+.container {
+    width: 800px;
+    margin: 50px auto 0;
+    display: table;
+    box-sizing: border-box;
+}
+.row {
+    margin: 10px 0;
+}
+.column {
+    background: #ccc;
+}
+  .img src {
+      width: 80%;
+    
+  }
+  .button {
+      color: darkgreen;
+  }
+  
+  
